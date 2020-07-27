@@ -1,5 +1,5 @@
 # https://www.hackerrank.com/challenges/simple-array-sum/problem
-# # 26.07.2020
+# 26.07.2020
 
 
 def diagonalDifference(arr):
